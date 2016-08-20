@@ -1,2 +1,4 @@
 echo 
 run
+
+progress to step 2
